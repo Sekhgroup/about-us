@@ -516,13 +516,14 @@ li,.sebakendraapp * {
   flex-wrap: wrap;
   align-content: center;
 }
-.cards{
+.cards {
     display: flex;
-    width: 400px;
-    height: 400px;
-    background-size: 100% 100%;
-    margin: 10px;
+    width: 283px;
+    height: 450px;
+    margin: 35px;
     justify-content: center;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
 }
 /*-----------------------------------*\
  * #FOOTER
