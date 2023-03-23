@@ -524,6 +524,7 @@ li,.sebakendraapp * {
     justify-content: center;
     border-radius: 20px;
     box-shadow: 10px 10px 10px black;
+    pointer-events: none;
 }
 /*-----------------------------------*\
  * #FOOTER
